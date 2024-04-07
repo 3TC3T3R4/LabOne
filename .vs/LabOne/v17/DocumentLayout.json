@@ -1,10 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Etcetera\\Desktop\\Proyects2024\\Labs\\LabOne\\",
+  "WorkspaceRootPath": "C:\\Users\\Etcetera\\Desktop\\Proyects2024\\Labs\\LabNumberOne\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{244ED8F3-236E-491E-98D5-E12EB7F02254}|LabOne\\LabOne.csproj|c:\\users\\etcetera\\desktop\\proyects2024\\labs\\labone\\labone\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{244ED8F3-236E-491E-98D5-E12EB7F02254}|LabOne\\LabOne.csproj|solutionrelative:labone\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{244ED8F3-236E-491E-98D5-E12EB7F02254}|LabOne\\LabOne.csproj|c:\\users\\etcetera\\desktop\\proyects2024\\labs\\labnumberone\\labone\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{244ED8F3-236E-491E-98D5-E12EB7F02254}|LabOne\\LabOne.csproj|solutionrelative:labone\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{244ED8F3-236E-491E-98D5-E12EB7F02254}|LabOne\\LabOne.csproj|c:\\users\\etcetera\\desktop\\proyects2024\\labs\\labnumberone\\labone\\initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{244ED8F3-236E-491E-98D5-E12EB7F02254}|LabOne\\LabOne.csproj|solutionrelative:labone\\initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,19 +18,36 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Initial.cs",
+              "DocumentMoniker": "C:\\Users\\Etcetera\\Desktop\\Proyects2024\\Labs\\LabNumberOne\\LabOne\\Initial.cs",
+              "RelativeDocumentMoniker": "LabOne\\Initial.cs",
+              "ToolTip": "C:\\Users\\Etcetera\\Desktop\\Proyects2024\\Labs\\LabNumberOne\\LabOne\\Initial.cs",
+              "RelativeToolTip": "LabOne\\Initial.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T23:13:12.875Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Etcetera\\Desktop\\Proyects2024\\Labs\\LabOne\\LabOne\\Program.cs",
-              "RelativeDocumentMoniker": "LabOne\\Program.cs",
-              "ToolTip": "C:\\Users\\Etcetera\\Desktop\\Proyects2024\\Labs\\LabOne\\LabOne\\Program.cs",
-              "RelativeToolTip": "LabOne\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Etcetera\\Desktop\\Proyects2024\\Labs\\LabNumberOne\\LabOne\\Product.cs",
+              "RelativeDocumentMoniker": "LabOne\\Product.cs",
+              "ToolTip": "C:\\Users\\Etcetera\\Desktop\\Proyects2024\\Labs\\LabNumberOne\\LabOne\\Product.cs",
+              "RelativeToolTip": "LabOne\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAwwCYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-07T04:54:01.96Z",
+              "WhenOpened": "2024-04-07T23:12:33.553Z",
               "EditorCaption": ""
             }
           ]
