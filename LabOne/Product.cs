@@ -27,13 +27,13 @@ namespace LabOne
         }
 
 
-        public static Product CreateProduct() {
+        public static void CreateProduct() {
+
+            Console.WriteLine("Ingrese nombre de su producto");
 
 
-            return null;
-        
-        
-        
+
+
         }
 
 

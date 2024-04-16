@@ -8,5 +8,15 @@ namespace LabOne
 {
     public class Beauty : Product
     {
+
+        public string Brand { get; set; }
+
+        public float Quantity { get; set; }
+
+        public string Color { get; set; }
+
+
+
+
     }
 }
