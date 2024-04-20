@@ -1,0 +1,15 @@
+C:\Users\Etcetera\Desktop\Proyects2024\Labs\LabNumberOne\LabOne\bin\Debug\net8.0\LabOne.exe
+C:\Users\Etcetera\Desktop\Proyects2024\Labs\LabNumberOne\LabOne\bin\Debug\net8.0\LabOne.deps.json
+C:\Users\Etcetera\Desktop\Proyects2024\Labs\LabNumberOne\LabOne\bin\Debug\net8.0\LabOne.runtimeconfig.json
+C:\Users\Etcetera\Desktop\Proyects2024\Labs\LabNumberOne\LabOne\bin\Debug\net8.0\LabOne.dll
+C:\Users\Etcetera\Desktop\Proyects2024\Labs\LabNumberOne\LabOne\bin\Debug\net8.0\LabOne.pdb
+C:\Users\Etcetera\Desktop\Proyects2024\Labs\LabNumberOne\LabOne\obj\Debug\net8.0\LabOne.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Etcetera\Desktop\Proyects2024\Labs\LabNumberOne\LabOne\obj\Debug\net8.0\LabOne.AssemblyInfoInputs.cache
+C:\Users\Etcetera\Desktop\Proyects2024\Labs\LabNumberOne\LabOne\obj\Debug\net8.0\LabOne.AssemblyInfo.cs
+C:\Users\Etcetera\Desktop\Proyects2024\Labs\LabNumberOne\LabOne\obj\Debug\net8.0\LabOne.csproj.CoreCompileInputs.cache
+C:\Users\Etcetera\Desktop\Proyects2024\Labs\LabNumberOne\LabOne\obj\Debug\net8.0\LabOne.sourcelink.json
+C:\Users\Etcetera\Desktop\Proyects2024\Labs\LabNumberOne\LabOne\obj\Debug\net8.0\LabOne.dll
+C:\Users\Etcetera\Desktop\Proyects2024\Labs\LabNumberOne\LabOne\obj\Debug\net8.0\refint\LabOne.dll
+C:\Users\Etcetera\Desktop\Proyects2024\Labs\LabNumberOne\LabOne\obj\Debug\net8.0\LabOne.pdb
+C:\Users\Etcetera\Desktop\Proyects2024\Labs\LabNumberOne\LabOne\obj\Debug\net8.0\LabOne.genruntimeconfig.cache
+C:\Users\Etcetera\Desktop\Proyects2024\Labs\LabNumberOne\LabOne\obj\Debug\net8.0\ref\LabOne.dll

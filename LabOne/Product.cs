@@ -10,44 +10,27 @@ namespace LabOne
     {
 
         protected string Name { get; set; }
-        protected string Description { get; set; }
-        protected double Price { get; set; }
-        protected string Category { get; set; }
+        //protected string Description { get; set; }
+        //protected double Price { get; set; }
+        protected String CategoryProduct { get; set; }
 
-        //public Product(string name, string description, double price, string category) { 
+
+        public Product(string name,String category)
+        {
+
+            Name = name;
+            //Description = description;
+            //Price = price;
+            CategoryProduct = category;
+
+        }
+
+        public virtual void GetInfo() { 
         
-        //    Name = name;
-        //    Description = description;
-        //    Price = price;
-        //    Category = category;
-        //}
-
-        public Product() { 
+            Console.WriteLine("The name of product is: " + Name, CategoryProduct);
+        
         
         }
-
-
-        public static void CreateProduct() {
-
-            Console.WriteLine("Ingrese nombre de su producto");
-
-
-
-
-        }
-
-
-
-        public void ShowProduct() {
-
-            Console.WriteLine($"Name: {Name}");
-            Console.WriteLine($"Description: {Description}");
-            Console.WriteLine($"Price: {Price}");
-            Console.WriteLine($"Category: {Category}");
-
-        }
-
-
 
 
     }

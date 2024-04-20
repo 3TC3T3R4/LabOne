@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace LabOne
 {
-    public class Sports : Product
+    public class Sports 
     {
 
         public string Brand { get; set; }

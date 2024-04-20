@@ -15,7 +15,27 @@ namespace LabOne
 
         public string Color { get; set; }
 
+        public String Category { get; set; }
 
+       
+
+        public Appliance(string brand,string model,string color,string name, String category) : base(name,category)
+        {
+
+            Brand = brand;
+            Model = model;
+            Color = color;
+            Category = category;
+        
+        
+        }
+
+        public override void GetInfo()
+        {
+            Console.WriteLine("The name of product is: " + Name  + " The brand is: " + Brand + " The model is: " + Model + " The color is: " + Color + " The category is: " + Category);
+            
+
+        }
 
 
 
