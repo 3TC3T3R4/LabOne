@@ -6,8 +6,18 @@ using System.Threading.Tasks;
 
 namespace LabOne
 {
-    public class Sports : Product
+    public class Sports 
     {
-         
+
+        public string Brand { get; set; }
+
+       public float Weight { get; set; }
+    
+        public string Color { get; set; }
+
+        public string Material { get; set; }
+
+        public string BodyPart { get; set; }    
+ 
     }
 }

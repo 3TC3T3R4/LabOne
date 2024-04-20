@@ -2,5 +2,9 @@
 # This .gitignore file was automatically created by Microsoft(R) Visual Studio.
 ################################################################################
 
+<<<<<<< HEAD
 /.vs/LabOne/FileContentIndex/5dedae7c-4d53-471a-8c43-99c71c372421.vsidx
 /.vs/LabOne/FileContentIndex
+=======
+/.vs/LabOne/FileContentIndex/3835b92a-919b-4fd4-90c9-333a7663cbc9.vsidx
+>>>>>>> 8fb2209cbe2cc920f1fdbf1785136824037ddfbf

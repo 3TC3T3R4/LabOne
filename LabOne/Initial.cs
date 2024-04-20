@@ -9,16 +9,14 @@ namespace LabOne
      class Initial
     {
 
+        
+     
+        static void Main(string[] args) {
 
-
-        public class Main(string[] args) {
-
-
-
+            var productCreatited = new Appliance("Asus","Az400","Gray","Computador Portatil","Eletrodomesticos");
+            productCreatited.GetInfo();
             
 
-        
-        
         }
 
 
