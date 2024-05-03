@@ -10,8 +10,6 @@ namespace LabOne
     {
 
         protected string Name { get; set; }
-        //protected string Description { get; set; }
-        //protected double Price { get; set; }
         protected String CategoryProduct { get; set; }
 
 
@@ -19,15 +17,13 @@ namespace LabOne
         {
 
             Name = name;
-            //Description = description;
-            //Price = price;
             CategoryProduct = category;
 
         }
 
         public virtual void GetInfo() { 
         
-            Console.WriteLine("The name of product is: " + Name, CategoryProduct);
+            Console.WriteLine("The name of product is: " + Name,"The Category of the product is: " + CategoryProduct);
         
         
         }
